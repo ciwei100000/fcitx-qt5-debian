@@ -1,3 +1,9 @@
+fcitx-qt5 (1.2.5-1-c1) unstable; urgency=medium
+
+  * Remove the symbol files
+
+ -- ciwei100000 <ciwei100000@gmail.com>  Sun, 20 Sep 2020 20:00:33 -0700
+
 fcitx-qt5 (1.2.5-1) unstable; urgency=medium
 
   * Team upload.
